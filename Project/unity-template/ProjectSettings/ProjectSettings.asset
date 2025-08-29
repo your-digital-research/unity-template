@@ -163,9 +163,9 @@ PlayerSettings:
   androidMaxAspectRatio: 2.4
   androidMinAspectRatio: 1
   applicationIdentifier:
-    Android: com.unitytemplate
-    Standalone: com.unitytemplate
-    iPhone: com.unitytemplate
+    Android: com.personal.unitytemplate
+    Standalone: com.personal.unitytemplate
+    iPhone: com.personal.unitytemplate
   buildNumber:
     Standalone: 0
     VisionOS: 0
